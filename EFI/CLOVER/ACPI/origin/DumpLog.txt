@@ -1,0 +1,181 @@
+22:442  0:088  Found BIOS RSDP at F0140
+22:442  0:000  Printing ACPI tables from RSDP F0140 ...
+22:442  0:000   F0140: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+22:442  0:000    (Xsdt: 7B5AD188, Rsdt: 7B5AD0C4)
+22:442  0:000    7B5AD188: 'XSDT', 'TP-N22', Rev: 1, Len: 268
+22:442  0:000    7B5AD0C4: 'RSDT', 'TP-N22', Rev: 1, Len: 152
+22:442  0:000    Tables in Xsdt: 29
+22:442  0:000    0. 7B5E3000: 'FACP', 'TP-N22', Rev: 5, Len: 244
+22:442  0:000        (Dsdt: 7B5BD000, Facs: 7B546000, XDsdt: 7B5BD000, XFacs: 0)
+22:442  0:000        7B5BD000: 'DSDT', 'SKL', Rev: 2, Len: 138645
+22:447  0:004        7B546000: 'FACS', Ver: 2, Len: 64
+22:447  0:000    1. 7B5E9000: 'SSDT', 'DptfTabl', Rev: 2, Len: 78350
+22:447  0:000    2. 7B55C000: 'UEFI', 'TP-N22', Rev: 1, Len: 66
+22:447  0:000    3. 7B5E5000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12464
+22:447  0:000    4. 7B5E4000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+22:447  0:000    5. 7B5E2000: 'HPET', 'TP-N22', Rev: 1, Len: 56
+22:447  0:000    6. 7B5E1000: 'APIC', 'TP-N22', Rev: 3, Len: 300
+22:447  0:000    7. 7B5E0000: 'MCFG', 'TP-N22', Rev: 1, Len: 60
+22:447  0:000    8. 7B5DF000: 'ECDT', 'TP-N22', Rev: 1, Len: 83
+22:447  0:000    9. 7B5BB000: 'SSDT', 'RVP7Rtd3', Rev: 2, Len: 7324
+22:447  0:000    10. 7B5B9000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5692
+22:447  0:000    11. 7B5B8000: 'BOOT', 'TP-N22', Rev: 1, Len: 40
+22:447  0:000    12. 7B5B7000: 'BATB', 'TP-N22', Rev: 2, Len: 74
+22:447  0:000    13. 7B5B6000: 'SLIC', 'TP-N22', Rev: 1, Len: 374
+22:447  0:000    14. 7B5B4000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+22:447  0:000    15. 7B5B3000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+22:447  0:000    16. 7B5B2000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1656
+22:447  0:000    17. 7B5B1000: 'LPIT', 'TP-N22', Rev: 1, Len: 148
+22:447  0:000    18. 7B5B0000: 'WSMT', 'TP-N22', Rev: 1, Len: 40
+22:447  0:000    19. 7B5AF000: 'SSDT', 'HdaDsp', Rev: 2, Len: 472
+22:447  0:000    20. 7B5AE000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1276
+22:447  0:000    21. 7B5FD000: 'SSDT', 'Wwan', Rev: 2, Len: 721
+22:447  0:000    22. 7B5AC000: 'DBGP', 'TP-N22', Rev: 1, Len: 52
+22:447  0:000    23. 7B5AB000: 'DBG2', 'TP-N22', Rev: 0, Len: 84
+22:447  0:000    24. 7B5AA000: 'MSDM', 'TP-N22', Rev: 3, Len: 85
+22:447  0:000    25. 7B5A9000: 'DMAR', 'TP-N22', Rev: 1, Len: 168
+22:447  0:000    26. 7B5A8000: 'ASF!', 'TP-N22', Rev: 32, Len: 160
+22:447  0:000    27. 7B5A7000: 'FPDT', 'TP-N22', Rev: 1, Len: 68
+22:447  0:000    28. 7B543000: 'UEFI', 'TP-N22', Rev: 1, Len: 318
+22:447  0:000    Tables in Rsdt: 29
+22:447  0:000    0. 7B5E3000: 'FACP', 'TP-N22', Rev: 5, Len: 244
+22:447  0:000        (Dsdt: 7B5BD000, Facs: 7B546000, XDsdt: 7B5BD000, XFacs: 0)
+22:447  0:000        7B5BD000: 'DSDT', 'SKL', Rev: 2, Len: 138645
+22:451  0:004        7B546000: 'FACS', Ver: 2, Len: 64
+22:451  0:000    1. 7B5E9000: 'SSDT', 'DptfTabl', Rev: 2, Len: 78350
+22:451  0:000    2. 7B55C000: 'UEFI', 'TP-N22', Rev: 1, Len: 66
+22:451  0:000    3. 7B5E5000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12464
+22:451  0:000    4. 7B5E4000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+22:451  0:000    5. 7B5E2000: 'HPET', 'TP-N22', Rev: 1, Len: 56
+22:451  0:000    6. 7B5E1000: 'APIC', 'TP-N22', Rev: 3, Len: 300
+22:451  0:000    7. 7B5E0000: 'MCFG', 'TP-N22', Rev: 1, Len: 60
+22:451  0:000    8. 7B5DF000: 'ECDT', 'TP-N22', Rev: 1, Len: 83
+22:451  0:000    9. 7B5BB000: 'SSDT', 'RVP7Rtd3', Rev: 2, Len: 7324
+22:451  0:000    10. 7B5B9000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5692
+22:451  0:000    11. 7B5B8000: 'BOOT', 'TP-N22', Rev: 1, Len: 40
+22:451  0:000    12. 7B5B7000: 'BATB', 'TP-N22', Rev: 2, Len: 74
+22:451  0:000    13. 7B5B6000: 'SLIC', 'TP-N22', Rev: 1, Len: 374
+22:451  0:000    14. 7B5B4000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+22:451  0:000    15. 7B5B3000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+22:451  0:000    16. 7B5B2000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1656
+22:451  0:000    17. 7B5B1000: 'LPIT', 'TP-N22', Rev: 1, Len: 148
+22:451  0:000    18. 7B5B0000: 'WSMT', 'TP-N22', Rev: 1, Len: 40
+22:451  0:000    19. 7B5AF000: 'SSDT', 'HdaDsp', Rev: 2, Len: 472
+22:451  0:000    20. 7B5AE000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1276
+22:451  0:000    21. 7B5FD000: 'SSDT', 'Wwan', Rev: 2, Len: 721
+22:451  0:000    22. 7B5AC000: 'DBGP', 'TP-N22', Rev: 1, Len: 52
+22:451  0:000    23. 7B5AB000: 'DBG2', 'TP-N22', Rev: 0, Len: 84
+22:451  0:000    24. 7B5AA000: 'MSDM', 'TP-N22', Rev: 3, Len: 85
+22:451  0:000    25. 7B5A9000: 'DMAR', 'TP-N22', Rev: 1, Len: 168
+22:451  0:000    26. 7B5A8000: 'ASF!', 'TP-N22', Rev: 32, Len: 160
+22:451  0:000    27. 7B5A7000: 'FPDT', 'TP-N22', Rev: 1, Len: 68
+22:451  0:000    28. 7B543000: 'UEFI', 'TP-N22', Rev: 1, Len: 318
+22:451  0:000  Found UEFI Acpi 2.0 RSDP at 7B5FE014
+22:451  0:000  Saving ACPI tables from RSDP 7B5FE014 to EFI\CLOVER\ACPI\origin ...
+22:451  0:000   7B5FE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+22:451  0:000    (Xsdt: 7B5AD188, Rsdt: 7B5AD0C4)
+22:451  0:000    7B5AD188: 'XSDT', 'TP-N22', Rev: 1, Len: 268
+22:451  0:000    7B5AD0C4: 'RSDT', 'TP-N22', Rev: 1, Len: 152
+22:451  0:000    Tables in Xsdt: 29
+22:451  0:000    0. 7B5E3000: 'FACP', 'TP-N22', Rev: 5, Len: 244
+22:451  0:000        (Dsdt: 7B5BD000, Facs: 7B546000, XDsdt: 7B5BD000, XFacs: 0)
+22:451  0:000        7B5BD000: 'DSDT', 'SKL', Rev: 2, Len: 138645
+22:456  0:004        7B546000: 'FACS', Ver: 2, Len: 64
+22:456  0:000    1. 7B5E9000: 'SSDT', 'DptfTabl', Rev: 2, Len: 78350
+22:456  0:000    2. 7B55C000: 'UEFI', 'TP-N22', Rev: 1, Len: 66
+22:456  0:000    3. 7B5E5000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12464
+22:456  0:000    4. 7B5E4000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+22:456  0:000    5. 7B5E2000: 'HPET', 'TP-N22', Rev: 1, Len: 56
+22:456  0:000    6. 7B5E1000: 'APIC', 'TP-N22', Rev: 3, Len: 300
+22:456  0:000    7. 7B5E0000: 'MCFG', 'TP-N22', Rev: 1, Len: 60
+22:456  0:000    8. 7B5DF000: 'ECDT', 'TP-N22', Rev: 1, Len: 83
+22:456  0:000    9. 7B5BB000: 'SSDT', 'RVP7Rtd3', Rev: 2, Len: 7324
+22:456  0:000    10. 7B5B9000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5692
+22:456  0:000    11. 7B5B8000: 'BOOT', 'TP-N22', Rev: 1, Len: 40
+22:456  0:000    12. 7B5B7000: 'BATB', 'TP-N22', Rev: 2, Len: 74
+22:456  0:000    13. 7B5B6000: 'SLIC', 'TP-N22', Rev: 1, Len: 374
+22:456  0:000    14. 7B5B4000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+22:456  0:000    15. 7B5B3000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+22:456  0:000    16. 7B5B2000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1656
+22:456  0:000    17. 7B5B1000: 'LPIT', 'TP-N22', Rev: 1, Len: 148
+22:456  0:000    18. 7B5B0000: 'WSMT', 'TP-N22', Rev: 1, Len: 40
+22:456  0:000    19. 7B5AF000: 'SSDT', 'HdaDsp', Rev: 2, Len: 472
+22:456  0:000    20. 7B5AE000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1276
+22:456  0:000    21. 7B5FD000: 'SSDT', 'Wwan', Rev: 2, Len: 721
+22:456  0:000    22. 7B5AC000: 'DBGP', 'TP-N22', Rev: 1, Len: 52
+22:456  0:000    23. 7B5AB000: 'DBG2', 'TP-N22', Rev: 0, Len: 84
+22:456  0:000    24. 7B5AA000: 'MSDM', 'TP-N22', Rev: 3, Len: 85
+22:456  0:000    25. 7B5A9000: 'DMAR', 'TP-N22', Rev: 1, Len: 168
+22:456  0:000    26. 7B5A8000: 'ASF!', 'TP-N22', Rev: 32, Len: 160
+22:456  0:000    27. 7B5A7000: 'FPDT', 'TP-N22', Rev: 1, Len: 68
+22:456  0:000    28. 7B543000: 'UEFI', 'TP-N22', Rev: 1, Len: 318
+22:456  0:000    Tables in Rsdt: 29
+22:456  0:000    0. 7B5E3000: 'FACP', 'TP-N22', Rev: 5, Len: 244
+22:456  0:000        (Dsdt: 7B5BD000, Facs: 7B546000, XDsdt: 7B5BD000, XFacs: 0)
+22:456  0:000        7B5BD000: 'DSDT', 'SKL', Rev: 2, Len: 138645
+22:460  0:004        7B546000: 'FACS', Ver: 2, Len: 64
+22:460  0:000    1. 7B5E9000: 'SSDT', 'DptfTabl', Rev: 2, Len: 78350
+22:460  0:000    2. 7B55C000: 'UEFI', 'TP-N22', Rev: 1, Len: 66
+22:460  0:000    3. 7B5E5000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12464
+22:460  0:000    4. 7B5E4000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+22:460  0:000    5. 7B5E2000: 'HPET', 'TP-N22', Rev: 1, Len: 56
+22:460  0:000    6. 7B5E1000: 'APIC', 'TP-N22', Rev: 3, Len: 300
+22:460  0:000    7. 7B5E0000: 'MCFG', 'TP-N22', Rev: 1, Len: 60
+22:460  0:000    8. 7B5DF000: 'ECDT', 'TP-N22', Rev: 1, Len: 83
+22:460  0:000    9. 7B5BB000: 'SSDT', 'RVP7Rtd3', Rev: 2, Len: 7324
+22:460  0:000    10. 7B5B9000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5692
+22:460  0:000    11. 7B5B8000: 'BOOT', 'TP-N22', Rev: 1, Len: 40
+22:460  0:000    12. 7B5B7000: 'BATB', 'TP-N22', Rev: 2, Len: 74
+22:460  0:000    13. 7B5B6000: 'SLIC', 'TP-N22', Rev: 1, Len: 374
+22:460  0:000    14. 7B5B4000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+22:460  0:000    15. 7B5B3000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+22:460  0:000    16. 7B5B2000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1656
+22:460  0:000    17. 7B5B1000: 'LPIT', 'TP-N22', Rev: 1, Len: 148
+22:460  0:000    18. 7B5B0000: 'WSMT', 'TP-N22', Rev: 1, Len: 40
+22:460  0:000    19. 7B5AF000: 'SSDT', 'HdaDsp', Rev: 2, Len: 472
+22:460  0:000    20. 7B5AE000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1276
+22:460  0:000    21. 7B5FD000: 'SSDT', 'Wwan', Rev: 2, Len: 721
+22:460  0:000    22. 7B5AC000: 'DBGP', 'TP-N22', Rev: 1, Len: 52
+22:460  0:000    23. 7B5AB000: 'DBG2', 'TP-N22', Rev: 0, Len: 84
+22:460  0:000    24. 7B5AA000: 'MSDM', 'TP-N22', Rev: 3, Len: 85
+22:460  0:000    25. 7B5A9000: 'DMAR', 'TP-N22', Rev: 1, Len: 168
+22:460  0:000    26. 7B5A8000: 'ASF!', 'TP-N22', Rev: 32, Len: 160
+22:460  0:000    27. 7B5A7000: 'FPDT', 'TP-N22', Rev: 1, Len: 68
+22:460  0:000    28. 7B543000: 'UEFI', 'TP-N22', Rev: 1, Len: 318
+22:460  0:000  Found UEFI Acpi 1.0 RSDP at 7B5FE000
+22:460  0:000  Printing ACPI tables from RSDP 7B5FE000 ...
+22:460  0:000   7B5FE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+22:460  0:000    (Rsdt: 7B5AD000)
+22:460  0:000    7B5AD000: 'RSDT', 'TP-N22', Rev: 1, Len: 148
+22:460  0:000    Tables in Rsdt: 28
+22:460  0:000    0. 7B5E3000: 'FACP', 'TP-N22', Rev: 5, Len: 244
+22:460  0:000        (Dsdt: 7B5BD000, Facs: 7B546000, XDsdt: 7B5BD000, XFacs: 0)
+22:460  0:000        7B5BD000: 'DSDT', 'SKL', Rev: 2, Len: 138645
+22:464  0:004        7B546000: 'FACS', Ver: 2, Len: 64
+22:464  0:000    1. 7B5E9000: 'SSDT', 'DptfTabl', Rev: 2, Len: 78350
+22:464  0:000    2. 7B55C000: 'UEFI', 'TP-N22', Rev: 1, Len: 66
+22:464  0:000    3. 7B5E5000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12464
+22:464  0:000    4. 7B5E4000: 'SSDT', 'PerfTune', Rev: 2, Len: 1478
+22:464  0:000    5. 7B5E2000: 'HPET', 'TP-N22', Rev: 1, Len: 56
+22:464  0:000    6. 7B5E1000: 'APIC', 'TP-N22', Rev: 3, Len: 300
+22:464  0:000    7. 7B5E0000: 'MCFG', 'TP-N22', Rev: 1, Len: 60
+22:464  0:000    8. 7B5DF000: 'ECDT', 'TP-N22', Rev: 1, Len: 83
+22:464  0:000    9. 7B5BB000: 'SSDT', 'RVP7Rtd3', Rev: 2, Len: 7324
+22:464  0:000    10. 7B5B9000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5692
+22:464  0:000    11. 7B5B8000: 'BOOT', 'TP-N22', Rev: 1, Len: 40
+22:464  0:000    12. 7B5B7000: 'BATB', 'TP-N22', Rev: 2, Len: 74
+22:464  0:000    13. 7B5B4000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+22:464  0:000    14. 7B5B3000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+22:464  0:000    15. 7B5B2000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1656
+22:464  0:000    16. 7B5B1000: 'LPIT', 'TP-N22', Rev: 1, Len: 148
+22:464  0:000    17. 7B5B0000: 'WSMT', 'TP-N22', Rev: 1, Len: 40
+22:464  0:000    18. 7B5AF000: 'SSDT', 'HdaDsp', Rev: 2, Len: 472
+22:464  0:000    19. 7B5AE000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1276
+22:464  0:000    20. 7B5FD000: 'SSDT', 'Wwan', Rev: 2, Len: 721
+22:464  0:000    21. 7B5AC000: 'DBGP', 'TP-N22', Rev: 1, Len: 52
+22:464  0:000    22. 7B5AB000: 'DBG2', 'TP-N22', Rev: 0, Len: 84
+22:464  0:000    23. 7B5AA000: 'MSDM', 'TP-N22', Rev: 3, Len: 85
+22:464  0:000    24. 7B5A9000: 'DMAR', 'TP-N22', Rev: 1, Len: 168
+22:464  0:000    25. 7B5A8000: 'ASF!', 'TP-N22', Rev: 32, Len: 160
+22:464  0:000    26. 7B5A7000: 'FPDT', 'TP-N22', Rev: 1, Len: 68
+22:464  0:000    27. 7B543000: 'UEFI', 'TP-N22', Rev: 1, Len: 318
